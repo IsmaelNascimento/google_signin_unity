@@ -9,3 +9,6 @@ https://github.com/googlesamples/google-signin-unity
 
 Link Developers Google:
 https://developers.google.com/identity/sign-in/android/start
+
+Generate SH1:
+keytool -keystore path-to-debug-or-production-keystore -list -v
